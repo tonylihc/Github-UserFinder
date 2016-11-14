@@ -1,0 +1,48 @@
+{
+  "name": "tonylihc",
+  "version": "1.0.0",
+  "description": "a github user search spa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "es6"
+  ],
+  "author": "tonylihc",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "material-ui": "^0.16.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^3.0.0",
+    "react-tap-event-plugin": "^1.0.0",
+    "redux": "^3.6.0",
+    "redux-actions": "^0.13.0",
+    "redux-immutable": "^3.0.8",
+    "redux-thunk": "^2.1.0",
+    "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-eslint": "^7.1.0",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-1": "^6.16.0",
+    "eslint": "^3.10.0",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-loader": "^1.6.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-react": "^6.6.0",
+    "html-webpack-plugin": "^2.24.1",
+    "redux-logger": "^2.7.4",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
